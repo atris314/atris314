@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ I am a server side programmer<br>📚 Excited to learn new technologies</p>
+<p align="left">✨ I am a Developer of Laravel and php projects <br>✨ I am a server side programmer<br>✨ Database construction and design<br>📚 Excited to learn new technologies</p>
 
 <h2>To contact me</h2>
 
