@@ -19,7 +19,7 @@
 <div align="left">
 
 [![LinkedIn](https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=white)](mailto:farinaz.haghighi314@gmail.com)
-[![Medium](https://img.shields.io/badge/Telegram-229ED9?logo=telegram&logoColor=white)](https://t.me/back_end_developer_php)
+[![Medium](https://img.shields.io/badge/Telegram-229ED9?logo=telegram&logoColor=white)](https://t.me/Senior_Back_end)
 
 </div>
 
