@@ -38,7 +38,6 @@
   <img src="https://www.cdnlogo.com/logos/p/20/postman.svg" height="40" alt="git logo"  />
   <img src="https://www.cdnlogo.com/logos/p/36/phpmyadmin.svg" height="30" alt="git logo"  />
   <img src="https://www.cdnlogo.com/logos/v/69/vue.svg" height="30" alt="git logo"  />  
-  <img src="https://www.cdnlogo.com/logos/j/45/jquery.svg" height="30" alt="git logo"  />
 </div>
 
 ###
